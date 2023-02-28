@@ -1,0 +1,15 @@
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.csproj.AssemblyReference.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.AssemblyInfoInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.AssemblyInfo.cs
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.csproj.CoreCompileInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\bin\Debug\net6.0\Lesson1Z4.exe
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\bin\Debug\net6.0\Lesson1Z4.deps.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\bin\Debug\net6.0\Lesson1Z4.runtimeconfig.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\bin\Debug\net6.0\Lesson1Z4.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\bin\Debug\net6.0\Lesson1Z4.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\refint\Lesson1Z4.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\Lesson1Z4.genruntimeconfig.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z4\obj\Debug\net6.0\ref\Lesson1Z4.dll

@@ -1,0 +1,15 @@
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\bin\Debug\net6.0\Lesson1Z6.exe
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\bin\Debug\net6.0\Lesson1Z6.deps.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\bin\Debug\net6.0\Lesson1Z6.runtimeconfig.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\bin\Debug\net6.0\Lesson1Z6.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\bin\Debug\net6.0\Lesson1Z6.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.csproj.AssemblyReference.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.AssemblyInfoInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.AssemblyInfo.cs
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.csproj.CoreCompileInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\refint\Lesson1Z6.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\Lesson1Z6.genruntimeconfig.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson1Z6\obj\Debug\net6.0\ref\Lesson1Z6.dll

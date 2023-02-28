@@ -1,0 +1,15 @@
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\bin\Debug\net6.0\Lesson2Z15.exe
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\bin\Debug\net6.0\Lesson2Z15.deps.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\bin\Debug\net6.0\Lesson2Z15.runtimeconfig.json
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\bin\Debug\net6.0\Lesson2Z15.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\bin\Debug\net6.0\Lesson2Z15.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.csproj.AssemblyReference.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.AssemblyInfoInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.AssemblyInfo.cs
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.csproj.CoreCompileInputs.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\refint\Lesson2Z15.dll
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.pdb
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\Lesson2Z15.genruntimeconfig.cache
+C:\Users\DiFFeR\Desktop\GeekBrains\C#\HW\Lesson2Z15\obj\Debug\net6.0\ref\Lesson2Z15.dll
